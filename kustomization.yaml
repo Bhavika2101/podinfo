@@ -9,7 +9,7 @@ spec:
   path: ./kustomize
   prune: false
   sourceRef:
-    kind: ""
-    name: ""
-  targetNamespace: flux-pod-on-demand-bhavika-baid-2594
+    kind: GitRepository
+    name: podinfo
+  targetNamespace: flux-pod-on-demand-bhavika-baid-2595
 
